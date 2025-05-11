@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 3\usoDeListas\usoDeListas\bin\Debug\net8.0\usoDeListas.exe
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 3\usoDeListas\usoDeListas\bin\Debug\net8.0\usoDeListas.deps.json
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 3\usoDeListas\usoDeListas\bin\Debug\net8.0\usoDeListas.runtimeconfig.json
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 3\usoDeListas\usoDeListas\bin\Debug\net8.0\usoDeListas.dll
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 3\usoDeListas\usoDeListas\bin\Debug\net8.0\usoDeListas.pdb
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 3\usoDeListas\usoDeListas\obj\Debug\net8.0\usoDeListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 3\usoDeListas\usoDeListas\obj\Debug\net8.0\usoDeListas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 3\usoDeListas\usoDeListas\obj\Debug\net8.0\usoDeListas.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 3\usoDeListas\usoDeListas\obj\Debug\net8.0\usoDeListas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 3\usoDeListas\usoDeListas\obj\Debug\net8.0\usoDeListas.dll
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 3\usoDeListas\usoDeListas\obj\Debug\net8.0\refint\usoDeListas.dll
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 3\usoDeListas\usoDeListas\obj\Debug\net8.0\usoDeListas.pdb
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 3\usoDeListas\usoDeListas\obj\Debug\net8.0\usoDeListas.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 3\usoDeListas\usoDeListas\obj\Debug\net8.0\ref\usoDeListas.dll

@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\Promedio de Calificaciones\Promedio de Calificaciones\bin\Debug\net8.0\Promedio de Calificaciones.exe
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\Promedio de Calificaciones\Promedio de Calificaciones\bin\Debug\net8.0\Promedio de Calificaciones.deps.json
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\Promedio de Calificaciones\Promedio de Calificaciones\bin\Debug\net8.0\Promedio de Calificaciones.runtimeconfig.json
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\Promedio de Calificaciones\Promedio de Calificaciones\bin\Debug\net8.0\Promedio de Calificaciones.dll
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\Promedio de Calificaciones\Promedio de Calificaciones\bin\Debug\net8.0\Promedio de Calificaciones.pdb
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\Promedio de Calificaciones\Promedio de Calificaciones\obj\Debug\net8.0\Promedio de Calificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\Promedio de Calificaciones\Promedio de Calificaciones\obj\Debug\net8.0\Promedio de Calificaciones.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\Promedio de Calificaciones\Promedio de Calificaciones\obj\Debug\net8.0\Promedio de Calificaciones.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\Promedio de Calificaciones\Promedio de Calificaciones\obj\Debug\net8.0\Promedio de Calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\Promedio de Calificaciones\Promedio de Calificaciones\obj\Debug\net8.0\Promedio de Calificaciones.dll
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\Promedio de Calificaciones\Promedio de Calificaciones\obj\Debug\net8.0\refint\Promedio de Calificaciones.dll
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\Promedio de Calificaciones\Promedio de Calificaciones\obj\Debug\net8.0\Promedio de Calificaciones.pdb
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\Promedio de Calificaciones\Promedio de Calificaciones\obj\Debug\net8.0\Promedio de Calificaciones.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\Promedio de Calificaciones\Promedio de Calificaciones\obj\Debug\net8.0\ref\Promedio de Calificaciones.dll

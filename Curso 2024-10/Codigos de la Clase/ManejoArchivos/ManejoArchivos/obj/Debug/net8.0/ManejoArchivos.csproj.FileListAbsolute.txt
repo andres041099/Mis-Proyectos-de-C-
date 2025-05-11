@@ -1,0 +1,14 @@
+C:\Users\Esdras\source\repos\ManejoArchivos\ManejoArchivos\bin\Debug\net8.0\ManejoArchivos.exe
+C:\Users\Esdras\source\repos\ManejoArchivos\ManejoArchivos\bin\Debug\net8.0\ManejoArchivos.deps.json
+C:\Users\Esdras\source\repos\ManejoArchivos\ManejoArchivos\bin\Debug\net8.0\ManejoArchivos.runtimeconfig.json
+C:\Users\Esdras\source\repos\ManejoArchivos\ManejoArchivos\bin\Debug\net8.0\ManejoArchivos.dll
+C:\Users\Esdras\source\repos\ManejoArchivos\ManejoArchivos\bin\Debug\net8.0\ManejoArchivos.pdb
+C:\Users\Esdras\source\repos\ManejoArchivos\ManejoArchivos\obj\Debug\net8.0\ManejoArchivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esdras\source\repos\ManejoArchivos\ManejoArchivos\obj\Debug\net8.0\ManejoArchivos.AssemblyInfoInputs.cache
+C:\Users\Esdras\source\repos\ManejoArchivos\ManejoArchivos\obj\Debug\net8.0\ManejoArchivos.AssemblyInfo.cs
+C:\Users\Esdras\source\repos\ManejoArchivos\ManejoArchivos\obj\Debug\net8.0\ManejoArchivos.csproj.CoreCompileInputs.cache
+C:\Users\Esdras\source\repos\ManejoArchivos\ManejoArchivos\obj\Debug\net8.0\ManejoArchivos.dll
+C:\Users\Esdras\source\repos\ManejoArchivos\ManejoArchivos\obj\Debug\net8.0\refint\ManejoArchivos.dll
+C:\Users\Esdras\source\repos\ManejoArchivos\ManejoArchivos\obj\Debug\net8.0\ManejoArchivos.pdb
+C:\Users\Esdras\source\repos\ManejoArchivos\ManejoArchivos\obj\Debug\net8.0\ManejoArchivos.genruntimeconfig.cache
+C:\Users\Esdras\source\repos\ManejoArchivos\ManejoArchivos\obj\Debug\net8.0\ref\ManejoArchivos.dll

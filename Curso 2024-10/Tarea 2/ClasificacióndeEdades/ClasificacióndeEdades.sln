@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasificacióndeEdades", "ClasificacióndeEdades\ClasificacióndeEdades.csproj", "{DFB5AC24-5E61-467A-B012-7F4809F4F030}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFB5AC24-5E61-467A-B012-7F4809F4F030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB5AC24-5E61-467A-B012-7F4809F4F030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB5AC24-5E61-467A-B012-7F4809F4F030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB5AC24-5E61-467A-B012-7F4809F4F030}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B837CA8-DC9F-477D-97C1-82CABE711D2C}
+	EndGlobalSection
+EndGlobal

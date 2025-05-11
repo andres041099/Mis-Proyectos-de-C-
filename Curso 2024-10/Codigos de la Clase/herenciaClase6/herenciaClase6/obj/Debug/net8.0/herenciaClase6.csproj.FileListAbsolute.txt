@@ -1,0 +1,14 @@
+C:\Users\Esdras\source\repos\herenciaClase6\herenciaClase6\bin\Debug\net8.0\herenciaClase6.exe
+C:\Users\Esdras\source\repos\herenciaClase6\herenciaClase6\bin\Debug\net8.0\herenciaClase6.deps.json
+C:\Users\Esdras\source\repos\herenciaClase6\herenciaClase6\bin\Debug\net8.0\herenciaClase6.runtimeconfig.json
+C:\Users\Esdras\source\repos\herenciaClase6\herenciaClase6\bin\Debug\net8.0\herenciaClase6.dll
+C:\Users\Esdras\source\repos\herenciaClase6\herenciaClase6\bin\Debug\net8.0\herenciaClase6.pdb
+C:\Users\Esdras\source\repos\herenciaClase6\herenciaClase6\obj\Debug\net8.0\herenciaClase6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esdras\source\repos\herenciaClase6\herenciaClase6\obj\Debug\net8.0\herenciaClase6.AssemblyInfoInputs.cache
+C:\Users\Esdras\source\repos\herenciaClase6\herenciaClase6\obj\Debug\net8.0\herenciaClase6.AssemblyInfo.cs
+C:\Users\Esdras\source\repos\herenciaClase6\herenciaClase6\obj\Debug\net8.0\herenciaClase6.csproj.CoreCompileInputs.cache
+C:\Users\Esdras\source\repos\herenciaClase6\herenciaClase6\obj\Debug\net8.0\herenciaClase6.dll
+C:\Users\Esdras\source\repos\herenciaClase6\herenciaClase6\obj\Debug\net8.0\refint\herenciaClase6.dll
+C:\Users\Esdras\source\repos\herenciaClase6\herenciaClase6\obj\Debug\net8.0\herenciaClase6.pdb
+C:\Users\Esdras\source\repos\herenciaClase6\herenciaClase6\obj\Debug\net8.0\herenciaClase6.genruntimeconfig.cache
+C:\Users\Esdras\source\repos\herenciaClase6\herenciaClase6\obj\Debug\net8.0\ref\herenciaClase6.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Esdras\\source\\repos\\clase61erejemplo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0851DDC5-9268-455A-A848-1EFD7CD04148}|clase61erejemplo\\clase61erejemplo.csproj|c:\\users\\esdras\\source\\repos\\clase61erejemplo\\clase61erejemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0851DDC5-9268-455A-A848-1EFD7CD04148}|clase61erejemplo\\clase61erejemplo.csproj|solutionrelative:clase61erejemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0851DDC5-9268-455A-A848-1EFD7CD04148}|clase61erejemplo\\clase61erejemplo.csproj|c:\\users\\esdras\\source\\repos\\clase61erejemplo\\clase61erejemplo\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0851DDC5-9268-455A-A848-1EFD7CD04148}|clase61erejemplo\\clase61erejemplo.csproj|solutionrelative:clase61erejemplo\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0851DDC5-9268-455A-A848-1EFD7CD04148}|clase61erejemplo\\clase61erejemplo.csproj|c:\\users\\esdras\\source\\repos\\clase61erejemplo\\clase61erejemplo\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0851DDC5-9268-455A-A848-1EFD7CD04148}|clase61erejemplo\\clase61erejemplo.csproj|solutionrelative:clase61erejemplo\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\Esdras\\source\\repos\\clase61erejemplo\\clase61erejemplo\\Profesor.cs",
+              "RelativeDocumentMoniker": "clase61erejemplo\\Profesor.cs",
+              "ToolTip": "C:\\Users\\Esdras\\source\\repos\\clase61erejemplo\\clase61erejemplo\\Profesor.cs",
+              "RelativeToolTip": "clase61erejemplo\\Profesor.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA7wCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T23:27:39.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Esdras\\source\\repos\\clase61erejemplo\\clase61erejemplo\\Program.cs",
+              "RelativeDocumentMoniker": "clase61erejemplo\\Program.cs",
+              "ToolTip": "C:\\Users\\Esdras\\source\\repos\\clase61erejemplo\\clase61erejemplo\\Program.cs",
+              "RelativeToolTip": "clase61erejemplo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T23:26:19.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\Esdras\\source\\repos\\clase61erejemplo\\clase61erejemplo\\Departamento.cs",
+              "RelativeDocumentMoniker": "clase61erejemplo\\Departamento.cs",
+              "ToolTip": "C:\\Users\\Esdras\\source\\repos\\clase61erejemplo\\clase61erejemplo\\Departamento.cs",
+              "RelativeToolTip": "clase61erejemplo\\Departamento.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T23:42:01.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

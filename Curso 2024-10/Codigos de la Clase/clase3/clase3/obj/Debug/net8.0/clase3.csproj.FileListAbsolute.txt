@@ -1,0 +1,14 @@
+C:\Users\nemia\OneDrive\Escritorio\C#\proyecto\clase3\clase3\bin\Debug\net8.0\clase3.exe
+C:\Users\nemia\OneDrive\Escritorio\C#\proyecto\clase3\clase3\bin\Debug\net8.0\clase3.deps.json
+C:\Users\nemia\OneDrive\Escritorio\C#\proyecto\clase3\clase3\bin\Debug\net8.0\clase3.runtimeconfig.json
+C:\Users\nemia\OneDrive\Escritorio\C#\proyecto\clase3\clase3\bin\Debug\net8.0\clase3.dll
+C:\Users\nemia\OneDrive\Escritorio\C#\proyecto\clase3\clase3\bin\Debug\net8.0\clase3.pdb
+C:\Users\nemia\OneDrive\Escritorio\C#\proyecto\clase3\clase3\obj\Debug\net8.0\clase3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nemia\OneDrive\Escritorio\C#\proyecto\clase3\clase3\obj\Debug\net8.0\clase3.AssemblyInfoInputs.cache
+C:\Users\nemia\OneDrive\Escritorio\C#\proyecto\clase3\clase3\obj\Debug\net8.0\clase3.AssemblyInfo.cs
+C:\Users\nemia\OneDrive\Escritorio\C#\proyecto\clase3\clase3\obj\Debug\net8.0\clase3.csproj.CoreCompileInputs.cache
+C:\Users\nemia\OneDrive\Escritorio\C#\proyecto\clase3\clase3\obj\Debug\net8.0\clase3.dll
+C:\Users\nemia\OneDrive\Escritorio\C#\proyecto\clase3\clase3\obj\Debug\net8.0\refint\clase3.dll
+C:\Users\nemia\OneDrive\Escritorio\C#\proyecto\clase3\clase3\obj\Debug\net8.0\clase3.pdb
+C:\Users\nemia\OneDrive\Escritorio\C#\proyecto\clase3\clase3\obj\Debug\net8.0\clase3.genruntimeconfig.cache
+C:\Users\nemia\OneDrive\Escritorio\C#\proyecto\clase3\clase3\obj\Debug\net8.0\ref\clase3.dll

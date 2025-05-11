@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\Cursos\\C#\\Curso 2024-10\\Andres Rodriguez Liberato\\Proyecto Final\\Andres Rodriguez Liberato\\ProyectoFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08DCCC42-D3F7-462E-AF75-E02F66DD3522}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\usuario\\documents\\cursos\\c#\\curso 2024-10\\andres rodriguez liberato\\proyecto final\\andres rodriguez liberato\\proyectofinal\\proyectofinal\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DCCC42-D3F7-462E-AF75-E02F66DD3522}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DCCC42-D3F7-462E-AF75-E02F66DD3522}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\usuario\\documents\\cursos\\c#\\curso 2024-10\\andres rodriguez liberato\\proyecto final\\andres rodriguez liberato\\proyectofinal\\proyectofinal\\gestorcuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DCCC42-D3F7-462E-AF75-E02F66DD3522}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\gestorcuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DCCC42-D3F7-462E-AF75-E02F66DD3522}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\usuario\\documents\\cursos\\c#\\curso 2024-10\\andres rodriguez liberato\\proyecto final\\andres rodriguez liberato\\proyectofinal\\proyectofinal\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DCCC42-D3F7-462E-AF75-E02F66DD3522}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DCCC42-D3F7-462E-AF75-E02F66DD3522}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\usuario\\documents\\cursos\\c#\\curso 2024-10\\andres rodriguez liberato\\proyecto final\\andres rodriguez liberato\\proyectofinal\\proyectofinal\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DCCC42-D3F7-462E-AF75-E02F66DD3522}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DCCC42-D3F7-462E-AF75-E02F66DD3522}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\usuario\\documents\\cursos\\c#\\curso 2024-10\\andres rodriguez liberato\\proyecto final\\andres rodriguez liberato\\proyectofinal\\proyectofinal\\cuentacorriente .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DCCC42-D3F7-462E-AF75-E02F66DD3522}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\cuentacorriente .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DCCC42-D3F7-462E-AF75-E02F66DD3522}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\usuario\\documents\\cursos\\c#\\curso 2024-10\\andres rodriguez liberato\\proyecto final\\andres rodriguez liberato\\proyectofinal\\proyectofinal\\cuentaahorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DCCC42-D3F7-462E-AF75-E02F66DD3522}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\cuentaahorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CuentaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Cursos\\C#\\Curso 2024-10\\Andres Rodriguez Liberato\\Proyecto Final\\Andres Rodriguez Liberato\\ProyectoFinal\\ProyectoFinal\\CuentaBancaria.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\CuentaBancaria.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Cursos\\C#\\Curso 2024-10\\Andres Rodriguez Liberato\\Proyecto Final\\Andres Rodriguez Liberato\\ProyectoFinal\\ProyectoFinal\\CuentaBancaria.cs",
+              "RelativeToolTip": "ProyectoFinal\\CuentaBancaria.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwDEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:39:55.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CuentaAhorro.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Cursos\\C#\\Curso 2024-10\\Andres Rodriguez Liberato\\Proyecto Final\\Andres Rodriguez Liberato\\ProyectoFinal\\ProyectoFinal\\CuentaAhorro.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\CuentaAhorro.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Cursos\\C#\\Curso 2024-10\\Andres Rodriguez Liberato\\Proyecto Final\\Andres Rodriguez Liberato\\ProyectoFinal\\ProyectoFinal\\CuentaAhorro.cs",
+              "RelativeToolTip": "ProyectoFinal\\CuentaAhorro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:37:42.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CuentaCorriente .cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Cursos\\C#\\Curso 2024-10\\Andres Rodriguez Liberato\\Proyecto Final\\Andres Rodriguez Liberato\\ProyectoFinal\\ProyectoFinal\\CuentaCorriente .cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\CuentaCorriente .cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Cursos\\C#\\Curso 2024-10\\Andres Rodriguez Liberato\\Proyecto Final\\Andres Rodriguez Liberato\\ProyectoFinal\\ProyectoFinal\\CuentaCorriente .cs",
+              "RelativeToolTip": "ProyectoFinal\\CuentaCorriente .cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA9wB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:56:11.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Cursos\\C#\\Curso 2024-10\\Andres Rodriguez Liberato\\Proyecto Final\\Andres Rodriguez Liberato\\ProyectoFinal\\ProyectoFinal\\Cliente.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Cursos\\C#\\Curso 2024-10\\Andres Rodriguez Liberato\\Proyecto Final\\Andres Rodriguez Liberato\\ProyectoFinal\\ProyectoFinal\\Cliente.cs",
+              "RelativeToolTip": "ProyectoFinal\\Cliente.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:59:00.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestorCuentas.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Cursos\\C#\\Curso 2024-10\\Andres Rodriguez Liberato\\Proyecto Final\\Andres Rodriguez Liberato\\ProyectoFinal\\ProyectoFinal\\GestorCuentas.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\GestorCuentas.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Cursos\\C#\\Curso 2024-10\\Andres Rodriguez Liberato\\Proyecto Final\\Andres Rodriguez Liberato\\ProyectoFinal\\ProyectoFinal\\GestorCuentas.cs",
+              "RelativeToolTip": "ProyectoFinal\\GestorCuentas.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:01:18.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tester.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Cursos\\C#\\Curso 2024-10\\Andres Rodriguez Liberato\\Proyecto Final\\Andres Rodriguez Liberato\\ProyectoFinal\\ProyectoFinal\\Tester.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Tester.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Cursos\\C#\\Curso 2024-10\\Andres Rodriguez Liberato\\Proyecto Final\\Andres Rodriguez Liberato\\ProyectoFinal\\ProyectoFinal\\Tester.cs",
+              "RelativeToolTip": "ProyectoFinal\\Tester.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T01:44:45.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

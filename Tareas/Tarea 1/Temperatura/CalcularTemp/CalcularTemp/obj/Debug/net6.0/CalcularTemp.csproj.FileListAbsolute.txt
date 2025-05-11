@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 1\Temperatura\CalcularTemp\CalcularTemp\bin\Debug\net6.0\CalcularTemp.exe
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 1\Temperatura\CalcularTemp\CalcularTemp\bin\Debug\net6.0\CalcularTemp.deps.json
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 1\Temperatura\CalcularTemp\CalcularTemp\bin\Debug\net6.0\CalcularTemp.runtimeconfig.json
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 1\Temperatura\CalcularTemp\CalcularTemp\bin\Debug\net6.0\CalcularTemp.dll
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 1\Temperatura\CalcularTemp\CalcularTemp\bin\Debug\net6.0\CalcularTemp.pdb
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 1\Temperatura\CalcularTemp\CalcularTemp\obj\Debug\net6.0\CalcularTemp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 1\Temperatura\CalcularTemp\CalcularTemp\obj\Debug\net6.0\CalcularTemp.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 1\Temperatura\CalcularTemp\CalcularTemp\obj\Debug\net6.0\CalcularTemp.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 1\Temperatura\CalcularTemp\CalcularTemp\obj\Debug\net6.0\CalcularTemp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 1\Temperatura\CalcularTemp\CalcularTemp\obj\Debug\net6.0\CalcularTemp.dll
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 1\Temperatura\CalcularTemp\CalcularTemp\obj\Debug\net6.0\refint\CalcularTemp.dll
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 1\Temperatura\CalcularTemp\CalcularTemp\obj\Debug\net6.0\CalcularTemp.pdb
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 1\Temperatura\CalcularTemp\CalcularTemp\obj\Debug\net6.0\CalcularTemp.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 1\Temperatura\CalcularTemp\CalcularTemp\obj\Debug\net6.0\ref\CalcularTemp.dll

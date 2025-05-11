@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Esdras\\source\\repos\\composicionejemplo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDA87F5-32AE-4ED1-9C73-C9BDE9E79CF3}|composicionejemplo\\composicionejemplo.csproj|c:\\users\\esdras\\source\\repos\\composicionejemplo\\composicionejemplo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FDA87F5-32AE-4ED1-9C73-C9BDE9E79CF3}|composicionejemplo\\composicionejemplo.csproj|solutionrelative:composicionejemplo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDA87F5-32AE-4ED1-9C73-C9BDE9E79CF3}|composicionejemplo\\composicionejemplo.csproj|c:\\users\\esdras\\source\\repos\\composicionejemplo\\composicionejemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FDA87F5-32AE-4ED1-9C73-C9BDE9E79CF3}|composicionejemplo\\composicionejemplo.csproj|solutionrelative:composicionejemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDA87F5-32AE-4ED1-9C73-C9BDE9E79CF3}|composicionejemplo\\composicionejemplo.csproj|c:\\users\\esdras\\source\\repos\\composicionejemplo\\composicionejemplo\\motor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FDA87F5-32AE-4ED1-9C73-C9BDE9E79CF3}|composicionejemplo\\composicionejemplo.csproj|solutionrelative:composicionejemplo\\motor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDA87F5-32AE-4ED1-9C73-C9BDE9E79CF3}|composicionejemplo\\composicionejemplo.csproj|c:\\users\\esdras\\source\\repos\\composicionejemplo\\composicionejemplo\\ruedas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FDA87F5-32AE-4ED1-9C73-C9BDE9E79CF3}|composicionejemplo\\composicionejemplo.csproj|solutionrelative:composicionejemplo\\ruedas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ruedas.cs",
+              "DocumentMoniker": "C:\\Users\\Esdras\\source\\repos\\composicionejemplo\\composicionejemplo\\ruedas.cs",
+              "RelativeDocumentMoniker": "composicionejemplo\\ruedas.cs",
+              "ToolTip": "C:\\Users\\Esdras\\source\\repos\\composicionejemplo\\composicionejemplo\\ruedas.cs",
+              "RelativeToolTip": "composicionejemplo\\ruedas.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T00:04:36.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Motor.cs",
+              "DocumentMoniker": "C:\\Users\\Esdras\\source\\repos\\composicionejemplo\\composicionejemplo\\Motor.cs",
+              "RelativeDocumentMoniker": "composicionejemplo\\Motor.cs",
+              "ToolTip": "C:\\Users\\Esdras\\source\\repos\\composicionejemplo\\composicionejemplo\\Motor.cs",
+              "RelativeToolTip": "composicionejemplo\\Motor.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T00:04:06.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\Esdras\\source\\repos\\composicionejemplo\\composicionejemplo\\Carro.cs",
+              "RelativeDocumentMoniker": "composicionejemplo\\Carro.cs",
+              "ToolTip": "C:\\Users\\Esdras\\source\\repos\\composicionejemplo\\composicionejemplo\\Carro.cs",
+              "RelativeToolTip": "composicionejemplo\\Carro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T00:03:19.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Esdras\\source\\repos\\composicionejemplo\\composicionejemplo\\Program.cs",
+              "RelativeDocumentMoniker": "composicionejemplo\\Program.cs",
+              "ToolTip": "C:\\Users\\Esdras\\source\\repos\\composicionejemplo\\composicionejemplo\\Program.cs",
+              "RelativeToolTip": "composicionejemplo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T00:03:00.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 3\CalculaConsola\CalculaConsola\bin\Debug\net6.0\CalculaConsola.exe
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 3\CalculaConsola\CalculaConsola\bin\Debug\net6.0\CalculaConsola.deps.json
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 3\CalculaConsola\CalculaConsola\bin\Debug\net6.0\CalculaConsola.runtimeconfig.json
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 3\CalculaConsola\CalculaConsola\bin\Debug\net6.0\CalculaConsola.dll
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 3\CalculaConsola\CalculaConsola\bin\Debug\net6.0\CalculaConsola.pdb
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 3\CalculaConsola\CalculaConsola\obj\Debug\net6.0\CalculaConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 3\CalculaConsola\CalculaConsola\obj\Debug\net6.0\CalculaConsola.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 3\CalculaConsola\CalculaConsola\obj\Debug\net6.0\CalculaConsola.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 3\CalculaConsola\CalculaConsola\obj\Debug\net6.0\CalculaConsola.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 3\CalculaConsola\CalculaConsola\obj\Debug\net6.0\CalculaConsola.dll
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 3\CalculaConsola\CalculaConsola\obj\Debug\net6.0\refint\CalculaConsola.dll
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 3\CalculaConsola\CalculaConsola\obj\Debug\net6.0\CalculaConsola.pdb
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 3\CalculaConsola\CalculaConsola\obj\Debug\net6.0\CalculaConsola.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 3\CalculaConsola\CalculaConsola\obj\Debug\net6.0\ref\CalculaConsola.dll

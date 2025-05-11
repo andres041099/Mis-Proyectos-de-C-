@@ -1,0 +1,14 @@
+C:\Users\Esdras\source\repos\clase61erejemplo\clase61erejemplo\bin\Debug\net8.0\clase61erejemplo.exe
+C:\Users\Esdras\source\repos\clase61erejemplo\clase61erejemplo\bin\Debug\net8.0\clase61erejemplo.deps.json
+C:\Users\Esdras\source\repos\clase61erejemplo\clase61erejemplo\bin\Debug\net8.0\clase61erejemplo.runtimeconfig.json
+C:\Users\Esdras\source\repos\clase61erejemplo\clase61erejemplo\bin\Debug\net8.0\clase61erejemplo.dll
+C:\Users\Esdras\source\repos\clase61erejemplo\clase61erejemplo\bin\Debug\net8.0\clase61erejemplo.pdb
+C:\Users\Esdras\source\repos\clase61erejemplo\clase61erejemplo\obj\Debug\net8.0\clase61erejemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esdras\source\repos\clase61erejemplo\clase61erejemplo\obj\Debug\net8.0\clase61erejemplo.AssemblyInfoInputs.cache
+C:\Users\Esdras\source\repos\clase61erejemplo\clase61erejemplo\obj\Debug\net8.0\clase61erejemplo.AssemblyInfo.cs
+C:\Users\Esdras\source\repos\clase61erejemplo\clase61erejemplo\obj\Debug\net8.0\clase61erejemplo.csproj.CoreCompileInputs.cache
+C:\Users\Esdras\source\repos\clase61erejemplo\clase61erejemplo\obj\Debug\net8.0\clase61erejemplo.dll
+C:\Users\Esdras\source\repos\clase61erejemplo\clase61erejemplo\obj\Debug\net8.0\refint\clase61erejemplo.dll
+C:\Users\Esdras\source\repos\clase61erejemplo\clase61erejemplo\obj\Debug\net8.0\clase61erejemplo.pdb
+C:\Users\Esdras\source\repos\clase61erejemplo\clase61erejemplo\obj\Debug\net8.0\clase61erejemplo.genruntimeconfig.cache
+C:\Users\Esdras\source\repos\clase61erejemplo\clase61erejemplo\obj\Debug\net8.0\ref\clase61erejemplo.dll

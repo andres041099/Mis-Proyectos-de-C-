@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\ClasificacióndeEdades\ClasificacióndeEdades\bin\Debug\net8.0\ClasificacióndeEdades.exe
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\ClasificacióndeEdades\ClasificacióndeEdades\bin\Debug\net8.0\ClasificacióndeEdades.deps.json
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\ClasificacióndeEdades\ClasificacióndeEdades\bin\Debug\net8.0\ClasificacióndeEdades.runtimeconfig.json
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\ClasificacióndeEdades\ClasificacióndeEdades\bin\Debug\net8.0\ClasificacióndeEdades.dll
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\ClasificacióndeEdades\ClasificacióndeEdades\bin\Debug\net8.0\ClasificacióndeEdades.pdb
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\ClasificacióndeEdades\ClasificacióndeEdades\obj\Debug\net8.0\ClasificacióndeEdades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\ClasificacióndeEdades\ClasificacióndeEdades\obj\Debug\net8.0\ClasificacióndeEdades.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\ClasificacióndeEdades\ClasificacióndeEdades\obj\Debug\net8.0\ClasificacióndeEdades.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\ClasificacióndeEdades\ClasificacióndeEdades\obj\Debug\net8.0\ClasificacióndeEdades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\ClasificacióndeEdades\ClasificacióndeEdades\obj\Debug\net8.0\ClasificacióndeEdades.dll
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\ClasificacióndeEdades\ClasificacióndeEdades\obj\Debug\net8.0\refint\ClasificacióndeEdades.dll
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\ClasificacióndeEdades\ClasificacióndeEdades\obj\Debug\net8.0\ClasificacióndeEdades.pdb
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\ClasificacióndeEdades\ClasificacióndeEdades\obj\Debug\net8.0\ClasificacióndeEdades.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\ClasificacióndeEdades\ClasificacióndeEdades\obj\Debug\net8.0\ref\ClasificacióndeEdades.dll

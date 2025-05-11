@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "clase61erejemplo/1.0.0": {
+        "runtime": {
+          "clase61erejemplo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "clase61erejemplo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

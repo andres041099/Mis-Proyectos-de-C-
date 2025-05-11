@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\AñoBiciesto\obj\Debug\net6.0\AñoBiciesto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\AñoBiciesto\obj\Debug\net6.0\AñoBiciesto.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\AñoBiciesto\obj\Debug\net6.0\AñoBiciesto.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\AñoBiciesto\obj\Debug\net6.0\AñoBiciesto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\AñoBiciesto\bin\Debug\net6.0\AñoBiciesto.exe
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\AñoBiciesto\bin\Debug\net6.0\AñoBiciesto.deps.json
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\AñoBiciesto\bin\Debug\net6.0\AñoBiciesto.runtimeconfig.json
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\AñoBiciesto\bin\Debug\net6.0\AñoBiciesto.dll
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\AñoBiciesto\bin\Debug\net6.0\AñoBiciesto.pdb
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\AñoBiciesto\obj\Debug\net6.0\AñoBiciesto.dll
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\AñoBiciesto\obj\Debug\net6.0\refint\AñoBiciesto.dll
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\AñoBiciesto\obj\Debug\net6.0\AñoBiciesto.pdb
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\AñoBiciesto\obj\Debug\net6.0\AñoBiciesto.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\AñoBiciesto\obj\Debug\net6.0\ref\AñoBiciesto.dll

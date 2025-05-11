@@ -1,0 +1,14 @@
+C:\Users\Esdras\source\repos\composicionejemplo\composicionejemplo\bin\Debug\net8.0\composicionejemplo.exe
+C:\Users\Esdras\source\repos\composicionejemplo\composicionejemplo\bin\Debug\net8.0\composicionejemplo.deps.json
+C:\Users\Esdras\source\repos\composicionejemplo\composicionejemplo\bin\Debug\net8.0\composicionejemplo.runtimeconfig.json
+C:\Users\Esdras\source\repos\composicionejemplo\composicionejemplo\bin\Debug\net8.0\composicionejemplo.dll
+C:\Users\Esdras\source\repos\composicionejemplo\composicionejemplo\bin\Debug\net8.0\composicionejemplo.pdb
+C:\Users\Esdras\source\repos\composicionejemplo\composicionejemplo\obj\Debug\net8.0\composicionejemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esdras\source\repos\composicionejemplo\composicionejemplo\obj\Debug\net8.0\composicionejemplo.AssemblyInfoInputs.cache
+C:\Users\Esdras\source\repos\composicionejemplo\composicionejemplo\obj\Debug\net8.0\composicionejemplo.AssemblyInfo.cs
+C:\Users\Esdras\source\repos\composicionejemplo\composicionejemplo\obj\Debug\net8.0\composicionejemplo.csproj.CoreCompileInputs.cache
+C:\Users\Esdras\source\repos\composicionejemplo\composicionejemplo\obj\Debug\net8.0\composicionejemplo.dll
+C:\Users\Esdras\source\repos\composicionejemplo\composicionejemplo\obj\Debug\net8.0\refint\composicionejemplo.dll
+C:\Users\Esdras\source\repos\composicionejemplo\composicionejemplo\obj\Debug\net8.0\composicionejemplo.pdb
+C:\Users\Esdras\source\repos\composicionejemplo\composicionejemplo\obj\Debug\net8.0\composicionejemplo.genruntimeconfig.cache
+C:\Users\Esdras\source\repos\composicionejemplo\composicionejemplo\obj\Debug\net8.0\ref\composicionejemplo.dll

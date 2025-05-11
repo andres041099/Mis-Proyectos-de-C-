@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 3\FuncionAreaTriangulo\FuncionAreaTriangulo\bin\Debug\net6.0\FuncionAreaTriangulo.exe
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 3\FuncionAreaTriangulo\FuncionAreaTriangulo\bin\Debug\net6.0\FuncionAreaTriangulo.deps.json
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 3\FuncionAreaTriangulo\FuncionAreaTriangulo\bin\Debug\net6.0\FuncionAreaTriangulo.runtimeconfig.json
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 3\FuncionAreaTriangulo\FuncionAreaTriangulo\bin\Debug\net6.0\FuncionAreaTriangulo.dll
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 3\FuncionAreaTriangulo\FuncionAreaTriangulo\bin\Debug\net6.0\FuncionAreaTriangulo.pdb
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 3\FuncionAreaTriangulo\FuncionAreaTriangulo\obj\Debug\net6.0\FuncionAreaTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 3\FuncionAreaTriangulo\FuncionAreaTriangulo\obj\Debug\net6.0\FuncionAreaTriangulo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 3\FuncionAreaTriangulo\FuncionAreaTriangulo\obj\Debug\net6.0\FuncionAreaTriangulo.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 3\FuncionAreaTriangulo\FuncionAreaTriangulo\obj\Debug\net6.0\FuncionAreaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 3\FuncionAreaTriangulo\FuncionAreaTriangulo\obj\Debug\net6.0\FuncionAreaTriangulo.dll
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 3\FuncionAreaTriangulo\FuncionAreaTriangulo\obj\Debug\net6.0\refint\FuncionAreaTriangulo.dll
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 3\FuncionAreaTriangulo\FuncionAreaTriangulo\obj\Debug\net6.0\FuncionAreaTriangulo.pdb
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 3\FuncionAreaTriangulo\FuncionAreaTriangulo\obj\Debug\net6.0\FuncionAreaTriangulo.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 3\FuncionAreaTriangulo\FuncionAreaTriangulo\obj\Debug\net6.0\ref\FuncionAreaTriangulo.dll

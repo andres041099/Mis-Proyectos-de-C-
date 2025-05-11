@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Proyecto Final\Andres Rodriguez Liberato\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Proyecto Final\Andres Rodriguez Liberato\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Proyecto Final\Andres Rodriguez Liberato\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Proyecto Final\Andres Rodriguez Liberato\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Proyecto Final\Andres Rodriguez Liberato\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.exe
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Proyecto Final\Andres Rodriguez Liberato\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.deps.json
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Proyecto Final\Andres Rodriguez Liberato\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.runtimeconfig.json
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Proyecto Final\Andres Rodriguez Liberato\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.dll
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Proyecto Final\Andres Rodriguez Liberato\ProyectoFinal\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.pdb
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Proyecto Final\Andres Rodriguez Liberato\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.dll
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Proyecto Final\Andres Rodriguez Liberato\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0\refint\ProyectoFinal.dll
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Proyecto Final\Andres Rodriguez Liberato\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.pdb
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Proyecto Final\Andres Rodriguez Liberato\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Proyecto Final\Andres Rodriguez Liberato\ProyectoFinal\ProyectoFinal\obj\Debug\net8.0\ref\ProyectoFinal.dll

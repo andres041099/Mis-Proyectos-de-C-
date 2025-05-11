@@ -1,0 +1,4 @@
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 3\ConvertidorTeperatura\ConvertidorTeperatura\obj\Debug\net6.0\ConvertidorTeperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 3\ConvertidorTeperatura\ConvertidorTeperatura\obj\Debug\net6.0\ConvertidorTeperatura.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 3\ConvertidorTeperatura\ConvertidorTeperatura\obj\Debug\net6.0\ConvertidorTeperatura.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 3\ConvertidorTeperatura\ConvertidorTeperatura\obj\Debug\net6.0\ConvertidorTeperatura.csproj.CoreCompileInputs.cache

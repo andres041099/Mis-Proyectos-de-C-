@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 1\Calcular el Area\Calcula el Area\Calcula el Area\bin\Debug\net6.0\Calcula el Area.exe
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 1\Calcular el Area\Calcula el Area\Calcula el Area\bin\Debug\net6.0\Calcula el Area.deps.json
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 1\Calcular el Area\Calcula el Area\Calcula el Area\bin\Debug\net6.0\Calcula el Area.runtimeconfig.json
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 1\Calcular el Area\Calcula el Area\Calcula el Area\bin\Debug\net6.0\Calcula el Area.dll
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 1\Calcular el Area\Calcula el Area\Calcula el Area\bin\Debug\net6.0\Calcula el Area.pdb
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 1\Calcular el Area\Calcula el Area\Calcula el Area\obj\Debug\net6.0\Calcula el Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 1\Calcular el Area\Calcula el Area\Calcula el Area\obj\Debug\net6.0\Calcula el Area.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 1\Calcular el Area\Calcula el Area\Calcula el Area\obj\Debug\net6.0\Calcula el Area.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 1\Calcular el Area\Calcula el Area\Calcula el Area\obj\Debug\net6.0\Calcula el Area.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 1\Calcular el Area\Calcula el Area\Calcula el Area\obj\Debug\net6.0\Calcula el Area.dll
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 1\Calcular el Area\Calcula el Area\Calcula el Area\obj\Debug\net6.0\refint\Calcula el Area.dll
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 1\Calcular el Area\Calcula el Area\Calcula el Area\obj\Debug\net6.0\Calcula el Area.pdb
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 1\Calcular el Area\Calcula el Area\Calcula el Area\obj\Debug\net6.0\Calcula el Area.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 1\Calcular el Area\Calcula el Area\Calcula el Area\obj\Debug\net6.0\ref\Calcula el Area.dll

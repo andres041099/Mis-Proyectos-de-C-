@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\Serie Fibonnaci\Serie Fibonnaci\bin\Debug\net8.0\Serie Fibonnaci.exe
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\Serie Fibonnaci\Serie Fibonnaci\bin\Debug\net8.0\Serie Fibonnaci.deps.json
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\Serie Fibonnaci\Serie Fibonnaci\bin\Debug\net8.0\Serie Fibonnaci.runtimeconfig.json
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\Serie Fibonnaci\Serie Fibonnaci\bin\Debug\net8.0\Serie Fibonnaci.dll
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\Serie Fibonnaci\Serie Fibonnaci\bin\Debug\net8.0\Serie Fibonnaci.pdb
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\Serie Fibonnaci\Serie Fibonnaci\obj\Debug\net8.0\Serie Fibonnaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\Serie Fibonnaci\Serie Fibonnaci\obj\Debug\net8.0\Serie Fibonnaci.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\Serie Fibonnaci\Serie Fibonnaci\obj\Debug\net8.0\Serie Fibonnaci.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\Serie Fibonnaci\Serie Fibonnaci\obj\Debug\net8.0\Serie Fibonnaci.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\Serie Fibonnaci\Serie Fibonnaci\obj\Debug\net8.0\Serie Fibonnaci.dll
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\Serie Fibonnaci\Serie Fibonnaci\obj\Debug\net8.0\refint\Serie Fibonnaci.dll
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\Serie Fibonnaci\Serie Fibonnaci\obj\Debug\net8.0\Serie Fibonnaci.pdb
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\Serie Fibonnaci\Serie Fibonnaci\obj\Debug\net8.0\Serie Fibonnaci.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Cursos\C#\Curso 2024-10\Tarea 2\Serie Fibonnaci\Serie Fibonnaci\obj\Debug\net8.0\ref\Serie Fibonnaci.dll

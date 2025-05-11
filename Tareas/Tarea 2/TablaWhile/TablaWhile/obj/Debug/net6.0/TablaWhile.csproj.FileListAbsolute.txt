@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\TablaWhile\TablaWhile\bin\Debug\net6.0\TablaWhile.exe
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\TablaWhile\TablaWhile\bin\Debug\net6.0\TablaWhile.deps.json
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\TablaWhile\TablaWhile\bin\Debug\net6.0\TablaWhile.runtimeconfig.json
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\TablaWhile\TablaWhile\bin\Debug\net6.0\TablaWhile.dll
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\TablaWhile\TablaWhile\bin\Debug\net6.0\TablaWhile.pdb
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\TablaWhile\TablaWhile\obj\Debug\net6.0\TablaWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\TablaWhile\TablaWhile\obj\Debug\net6.0\TablaWhile.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\TablaWhile\TablaWhile\obj\Debug\net6.0\TablaWhile.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\TablaWhile\TablaWhile\obj\Debug\net6.0\TablaWhile.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\TablaWhile\TablaWhile\obj\Debug\net6.0\TablaWhile.dll
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\TablaWhile\TablaWhile\obj\Debug\net6.0\refint\TablaWhile.dll
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\TablaWhile\TablaWhile\obj\Debug\net6.0\TablaWhile.pdb
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\TablaWhile\TablaWhile\obj\Debug\net6.0\TablaWhile.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\TablaWhile\TablaWhile\obj\Debug\net6.0\ref\TablaWhile.dll

@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\NumeroMayoroMenor\NumeroMayoroMenor\bin\Debug\net6.0\NumeroMayoroMenor.exe
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\NumeroMayoroMenor\NumeroMayoroMenor\bin\Debug\net6.0\NumeroMayoroMenor.deps.json
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\NumeroMayoroMenor\NumeroMayoroMenor\bin\Debug\net6.0\NumeroMayoroMenor.runtimeconfig.json
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\NumeroMayoroMenor\NumeroMayoroMenor\bin\Debug\net6.0\NumeroMayoroMenor.dll
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\NumeroMayoroMenor\NumeroMayoroMenor\bin\Debug\net6.0\NumeroMayoroMenor.pdb
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\NumeroMayoroMenor\NumeroMayoroMenor\obj\Debug\net6.0\NumeroMayoroMenor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\NumeroMayoroMenor\NumeroMayoroMenor\obj\Debug\net6.0\NumeroMayoroMenor.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\NumeroMayoroMenor\NumeroMayoroMenor\obj\Debug\net6.0\NumeroMayoroMenor.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\NumeroMayoroMenor\NumeroMayoroMenor\obj\Debug\net6.0\NumeroMayoroMenor.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\NumeroMayoroMenor\NumeroMayoroMenor\obj\Debug\net6.0\NumeroMayoroMenor.dll
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\NumeroMayoroMenor\NumeroMayoroMenor\obj\Debug\net6.0\refint\NumeroMayoroMenor.dll
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\NumeroMayoroMenor\NumeroMayoroMenor\obj\Debug\net6.0\NumeroMayoroMenor.pdb
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\NumeroMayoroMenor\NumeroMayoroMenor\obj\Debug\net6.0\NumeroMayoroMenor.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Cursos\C#\Tareas\Tarea 2\NumeroMayoroMenor\NumeroMayoroMenor\obj\Debug\net6.0\ref\NumeroMayoroMenor.dll
